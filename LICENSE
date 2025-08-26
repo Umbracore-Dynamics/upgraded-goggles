@@ -199,3 +199,42 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+# Ethical Use Policy
+
+This project is intended **solely for defensive security, digital forensics, and incident response (DFIR) purposes**.  
+
+By using this software, you agree to the following:
+
+---
+
+## 1. Prohibited Uses
+You **must not** use this tool to:
+- Perform unauthorized access, hacking, or exploitation of any system.
+- Conduct offensive security attacks without explicit, written consent from the system owner.
+- Violate any applicable laws, regulations, or third-party rights.
+- Engage in activities that cause harm to individuals, organizations, or critical infrastructure.
+
+---
+
+## 2. Authorized Use
+This tool is provided **for educational, research, and defensive security purposes only**.  
+Usage must comply with:
+- Local and international cybersecurity laws.
+- Your organization's acceptable use and security policies.
+
+---
+
+## 3. Monitoring and Reporting
+- Misuse of this tool for malicious purposes may result in:
+  - **Revocation of rights to use the software**.
+  - **Notification to law enforcement agencies** in accordance with applicable laws.
+- The project maintainers **reserve the right to cooperate with legal authorities** in cases of abuse.
+
+---
+
+## 4. Acknowledgment
+By downloading, using, or modifying this software, you acknowledge that:
+- The authors are **not liable for any damages, misuse, or illegal activity**.
+- **You assume full responsibility for compliance** with ethical and legal standards depending on your jurisdiction.
+
